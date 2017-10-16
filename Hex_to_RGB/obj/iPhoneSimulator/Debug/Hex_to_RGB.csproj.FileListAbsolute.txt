@@ -1,0 +1,9 @@
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/bin/iPhoneSimulator/Debug/Hex_to_RGB.exe
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/bin/iPhoneSimulator/Debug/Hex_to_RGB.pdb
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/obj/iPhoneSimulator/Debug/Hex_to_RGB.csproj.CoreCompileInputs.cache
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/obj/iPhoneSimulator/Debug/Hex_to_RGB.exe
+/Users/louisp3/Desktop/repos/Hex_to_RGB/HexToRGB_ios/Hex_to_RGB/obj/iPhoneSimulator/Debug/Hex_to_RGB.pdb
