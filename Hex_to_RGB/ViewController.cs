@@ -31,6 +31,12 @@ namespace Hex_to_RGB
 			int Red = int.Parse(rValue, System.Globalization.NumberStyles.HexNumber);
 			int Green = int.Parse(gValue, System.Globalization.NumberStyles.HexNumber);
 			int Blue = int.Parse(bValue, System.Globalization.NumberStyles.HexNumber);
+
+            RedCol.Text = Red.ToString();
+            GreenCol.Text = Green.ToString();
+            BlueCol.Text = Blue.ToString();
+
+            colorView.BackgroundColor = UIColor.FromRGB(Red, Green, Blue);
         }
 
 

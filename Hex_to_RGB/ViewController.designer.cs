@@ -15,7 +15,11 @@ namespace Hex_to_RGB
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel Blue { get; set; }
+        UIKit.UILabel BlueCol { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIView colorView { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
@@ -23,7 +27,7 @@ namespace Hex_to_RGB
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel Green { get; set; }
+        UIKit.UILabel GreenCol { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
@@ -31,13 +35,18 @@ namespace Hex_to_RGB
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel Red { get; set; }
+        UIKit.UILabel RedCol { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
-            if (Blue != null) {
-                Blue.Dispose ();
-                Blue = null;
+            if (BlueCol != null) {
+                BlueCol.Dispose ();
+                BlueCol = null;
+            }
+
+            if (colorView != null) {
+                colorView.Dispose ();
+                colorView = null;
             }
 
             if (demoButton != null) {
@@ -45,9 +54,9 @@ namespace Hex_to_RGB
                 demoButton = null;
             }
 
-            if (Green != null) {
-                Green.Dispose ();
-                Green = null;
+            if (GreenCol != null) {
+                GreenCol.Dispose ();
+                GreenCol = null;
             }
 
             if (Hex != null) {
@@ -55,9 +64,9 @@ namespace Hex_to_RGB
                 Hex = null;
             }
 
-            if (Red != null) {
-                Red.Dispose ();
-                Red = null;
+            if (RedCol != null) {
+                RedCol.Dispose ();
+                RedCol = null;
             }
         }
     }
